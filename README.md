@@ -4,4 +4,6 @@ nodejs application with husky and commit lint
 
 this version of husky work different
 
-some command in use file pre-coomit in .husky
+some command in use file pre-commit in .husky
+
+remove command add . from pre-commit
